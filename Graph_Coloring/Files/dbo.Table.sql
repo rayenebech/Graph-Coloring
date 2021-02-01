@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[Table]
+(
+	[Id] INT IDENTITY (1,1) NOT NULL, 
+	[name] NVARCHAR (MAX) NOT NULL,
+	[loc] NVARCHAR (MAX) NOT NULL,
+	PRIMARY KEY CLUSTERED ([Id] ASC )
+
+
+)

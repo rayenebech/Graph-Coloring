@@ -1,0 +1,14 @@
+Verilen ders listelerinde, sadece aşağıdaki ders ikilileri için
+ortak dersler bulunmaktadır. Kontol ve renklendirmede 
+örnek olarak bu durumu kullanabilirsiniz. 
+
+BLM1010 -- BLM2010
+BLM1010 -- BLM3010
+BLM1010 -- BLM3011
+BLM2010 -- BLM3010
+BLM2010 -- BLM3011
+BLM3010 -- BLM3011
+
+Uygulamanızı raporlarken, 6 farklı renge boyanacak bir
+veri setini bu veri setine benzer şekilde oluşturunuz ve ilgili
+ekran görüntülerini raporunuza ekleyiniz
